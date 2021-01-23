@@ -1,3 +1,6 @@
 .idea
 target
 *.iml
+
+automation-practice-ssh
+*.pub
