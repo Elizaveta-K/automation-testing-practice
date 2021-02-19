@@ -15,7 +15,7 @@ import projects.eshop.pageObjects.MyAccountPage;
 import static org.junit.Assert.assertTrue;
 import static org.junit.Assert.assertEquals;
 
-public class LoginTests extends TestBase {
+public class PageObjectLoginTests extends TestBase {
 
     private WebDriver webDriver;
     private TestLogger logger;
